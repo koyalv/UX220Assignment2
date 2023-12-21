@@ -3,7 +3,7 @@
 ## Quick Start
 
 ```bash
-git clone https://github.com/rhildred/UX220Assignment2 .
+git clone https://github.com/koyalv/UX220Assignment2 .
 npm install
 npm start
 ```
