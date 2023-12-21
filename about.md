@@ -1,1 +1,1 @@
-About page
+My name is Koyal and I am a Digital Media and Journalism student. Currently I work full time with the Students' Union and I am working towards graduation. In my free time, I love to use social media, watch hockey and bake!

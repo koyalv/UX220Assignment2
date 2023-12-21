@@ -1,1 +1,1 @@
-Contact information here
+Koyal Vyas: vyas3410@mylaurier.ca
